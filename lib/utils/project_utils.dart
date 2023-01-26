@@ -50,16 +50,6 @@ class ProjectUtils {
   ];
 
   static const List<String> links = [
-    "https://pub.dev/packages/awesome_snackbar_content",
-    "https://github.com/mhmzdev/The_Holy_Quran_App",
-    "https://github.com/mhmzdev/MedKit-Pharmacy-App-Using-Flutter",
-    "https://github.com/mhmzdev/Here-I-Am-Alert-App",
-    "https://github.com/mhmzdev/Covid19-Tracker-App",
-    "https://github.com/mhmzdev/Messenger-Chat-Head-Flutter-UI",
-    "https://github.com/mhmzdev/flutter.dev-Flutter-Web-Clone",
-    "https://github.com/mhmzdev/Earbender_Music_App",
-    "https://github.com/mhmzdev/FTP_GUI_Java",
-    "https://github.com/mhmzdev/My-Order-Resturant-Ordering-System",
-    "https://github.com/mhmzdev/Hidev_Web",
+
   ];
 }
