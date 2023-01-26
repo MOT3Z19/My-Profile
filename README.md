@@ -28,4 +28,4 @@ You can also follow my GitHub Profile to stay updated about my latest projects:
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2020 MUHAMMAD HAMZA
+Copyright (c) 2022 Motaz Ahmed
