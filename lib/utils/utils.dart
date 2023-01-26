@@ -10,7 +10,6 @@ class StaticUtils {
   static const String hi = 'assets/hi.gif';
 
   // photos
-  static const String mobilePhoto = 'assets/photos/mobile.png';
   static const String coloredPhoto = 'assets/photos/me.jpeg';
   static const String blackWhitePhoto = 'assets/photos/image_profile.png';
 
